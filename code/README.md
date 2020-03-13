@@ -26,7 +26,7 @@ The goal of this project is to practice creating and interpreting different type
 
 Dataset [Etsy Shops Dataset](https://www.kaggle.com/sepidafs/etsy-shops).
 
-The dataset represents a few chosen attributes of 20k newly created Etsy shops in Nov and Dec 2019.
+The dataset contains the attributes of 20k Etsy shops that have been opened mostly during Nov 2019 and some in Dec 2019.
 
 <a name="workflow"></a>
 
