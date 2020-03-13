@@ -42,4 +42,8 @@ The dataset contains the attributes of 20k Etsy shops that have been opened most
 
 ## Results
 
-
+ - The majority of the shops are US based, but there is also a good number of shops based in UK.
+ - The US based shops have a higher number of favorers.
+ - The majority of a newly created shops have between 0 and 2,5 sales.
+ - Sales Count has the highest correlation with review count and the number of favorers. It means that the social aspect is very important in order to sell more.
+ - Interestingly, sale message has a very low correlation with the number of sales!
