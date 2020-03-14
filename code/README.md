@@ -34,14 +34,14 @@ The dataset contains the attributes of 20k Etsy shops that have been opened most
 
  - Select a dataset from a public source.
  - Create a Jupyter noteboosk to analyze the data
- - Analyze and vizualize data
- - Gather insights from these visualizations
+ - Analyze and vizualize data:
      - Understanding the data
      - Investigating the missing data
      - Distribution of the data
      - Correlation
+ - Gather insights from these visualizations:
      - Main outcomes
- 
+
  
 <a name="results"></a>
 
