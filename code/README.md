@@ -36,14 +36,26 @@ The dataset contains the attributes of 20k Etsy shops that have been opened most
  - Create a Jupyter noteboosk to analyze the data
  - Analyze and vizualize data
  - Gather insights from these visualizations
+     - Understanding the data
+     - Investigating the missing data
+     - Distribution of the data
+     - Correlation
+     - Main outcomes
  
-
+ 
 <a name="results"></a>
 
 ## Results
 
  - The majority of the shops are US based, but there is also a good number of shops based in UK.
- - The US based shops have a higher number of favorers.
+ - The US based shops have a higher number of favorers compared to non US based.
  - The majority of a newly created shops have between 0 and 2,5 sales.
  - Sales Count has the highest correlation with review count and the number of favorers. It means that the social aspect is very important in order to sell more.
  - Interestingly, sale message has a very low correlation with the number of sales!
+ 
+ ## Next Steps
+ 
+ - It would be interesting to collect more variables about the shops and users. 
+ - Collect data for a year and check how the sales are changing depending on the months (seasonalities)
+ - Investigate the sales and the dependencies of the variables per category of the product
+ - Investigate the user profile of Etsy, how often buy, what's the average value of the cart, which categories are most popular
